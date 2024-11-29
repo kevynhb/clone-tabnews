@@ -4,9 +4,8 @@
 
 // Home com H maiusculo é convenção do React para componentes
 function Home() {
-    return <h1>Teste Olá mundo</h1>
+    return <h1>Sandrine, eu amo você. Se você me ama, dá uma risadinha :D </h1>
 }
 
 // Default para mostrar ao next.js que esse é o arquivo padrão para redenrizar a página, a partir dele pode-se chamar outros componentes pelo export
 export default Home;
-
